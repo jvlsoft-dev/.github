@@ -51,11 +51,11 @@ For any issues or questions, please reach out to our support team:
 
 ## License
 
-All projects within the JVLsoft LLC GitHub organization are the private property of [JVLsoft LLC](www.jvlsoft.cu).
+All projects within the JVLsoft LLC GitHub organization are the private property of [JVLsoft LLC](https://www.jvlsoft.cu).
 
 ## Stay Connected
 
-- Website: [www.jvlsoft.cu](www.jvlsoft.cu)
+- Website: [www.jvlsoft.cu](https://www.jvlsoft.cu)
 - LinkedIn: [JVLsoft LLC](https://www.linkedin.com/company/jvlsoft-srl/)
 - Twitter: [@JVLsoft](https://twitter.com/JVLsoft)
 
